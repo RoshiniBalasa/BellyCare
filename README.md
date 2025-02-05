@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e7756b0e-d45a-49d1-8cfd-05da99c925a0)# BellyCare: Pregnancy and Fetal Health Prediction 🤰🏻
+# BellyCare: Pregnancy and Fetal Health Prediction 🤰🏻
 Bellycare is an innovative web-based platform designed to predict pregnancy risks and assess fetal health. Using advanced machine learning algorithms and data analysis, BellyCare offers accurate predictions based on various factors related to pregnancy and fetal health. This project integrates a user-friendly interface that helps healthcare professionals and users make informed decisions.
 
 # Features 🚀
